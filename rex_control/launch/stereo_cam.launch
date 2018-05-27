@@ -7,7 +7,7 @@
       <param name="pixel_format" value="yuyv" />
       <param name="camera_frame_id" value="right_cam" />
       <param name="io_method" value="mmap"/>
-      <param name="framerate" value="15" />
+      <param name="framerate" value="30" />
       <param name="camera_name" value="minoru_right" />
     </node>
 
@@ -19,7 +19,7 @@
       <param name="pixel_format" value="yuyv" />
       <param name="camera_frame_id" value="left_cam" />
       <param name="io_method" value="mmap"/>
-      <param name="framerate" value="15" />
+      <param name="framerate" value="30" />
       <param name="camera_name" value="minoru_left" />
     </node>
 
